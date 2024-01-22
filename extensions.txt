@@ -1,0 +1,7 @@
+74th.monokai-charcoal-high-contrast
+dbaeumer.vscode-eslint
+devzstudio.emoji-snippets
+esbenp.prettier-vscode
+mariorodeghiero.vue-theme
+ms-vscode.cpptools-themes
+ThiagoLcioBittencourt.ubuntuvscode
